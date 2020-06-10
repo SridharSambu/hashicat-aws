@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
+  Welcome to sridhar sambu's app. Replace this text with your own.
+=======
   Welcome to sridhar sambu 's app. Replace this text with your own.
+>>>>>>> cb553e7c7e4a147635aef5cd8615d45668251c99
   <!-- END -->
 
   </div>
